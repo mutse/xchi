@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-
+@main
 struct xchiApp: App {
     var body: some Scene {
         WindowGroup {

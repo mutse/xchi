@@ -44,13 +44,3 @@ struct ContentView: View {
         alert.runModal()
     }
 }
-
-@main
-struct YourAppNameApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
-
